@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://igaleiti.github.io/Heb/sitemap_index.txt
+Sitemap: https://igaleiti.github.io/jia/sitemap_index.txt
+Sitemap: https://igaleiti.github.io/sGS/sitemap_index.txt
+Sitemap: https://igaleiti.github.io/vuK/sitemap_index.txt
